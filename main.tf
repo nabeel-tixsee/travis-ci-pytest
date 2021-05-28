@@ -1,7 +1,5 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA4PI4D6C44WB2SALW"
-  secret_key = "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"
 }
 
 resource "aws_sqs_queue" "client_tci_dlq" {
