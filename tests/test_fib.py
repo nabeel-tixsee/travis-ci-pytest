@@ -7,3 +7,10 @@ def test_fib_10():
 
 def test_fib_not_20():
 	assert(fibonacci(20) != 20)	
+
+	
+	
+	
+	
+	
+	
